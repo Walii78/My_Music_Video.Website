@@ -1,0 +1,15 @@
+﻿body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333333;
+}
+
+.video-container {
+    max-width: 560px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+}

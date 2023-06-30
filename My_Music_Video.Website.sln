@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My_Music_Video.Website", "My_Music_Video.Website\My_Music_Video.Website.csproj", "{13F034F0-9C25-49A3-9C6D-13373C848364}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{12FCB52B-7D2A-449E-80EF-021942180803}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		script.js = script.js
+		styles.css = styles.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F034F0-9C25-49A3-9C6D-13373C848364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F034F0-9C25-49A3-9C6D-13373C848364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F034F0-9C25-49A3-9C6D-13373C848364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F034F0-9C25-49A3-9C6D-13373C848364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E87E4116-20E0-4A97-AFEF-EF4F456E71A3}
+	EndGlobalSection
+EndGlobal
